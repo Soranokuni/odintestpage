@@ -1,2 +1,2 @@
 # odintestpage
-A Flexbox introduction/experimenteational page.
+A Flexbox introduction/experimentational page.
